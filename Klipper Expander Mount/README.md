@@ -9,4 +9,3 @@ There are 2 versions of this mount.
 
 ![Mount_Top](./Images/Mount_Top.jpg)
 ![Mount_Side](./Images/Mount_Side.jpg)
-![Mount_Screws](./Images/Mount_Screws.jpg)
