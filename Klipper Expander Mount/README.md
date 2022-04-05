@@ -6,4 +6,4 @@ There are 2 versions of this mount.
 1: Only has a logo on the back for use with VHB tape
 
 2: Has logo and 4 M3 countersunk holes for bhcs for mounting on rails
-![Mount_Top](/Images/IMG_1704.jpg)
+![Mount_Top](/Images/Mount_Top.jpg)
