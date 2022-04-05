@@ -8,3 +8,5 @@ There are 2 versions of this mount.
 2: Has logo and 4 M3 countersunk holes for bhcs for mounting on rails
 
 ![Mount_Top](./Images/Mount_Top.jpg)
+![Mount_Side](./Images/Mount_Side.jpg)
+![Mount_Screws](./Images/Mount_Screws.jpg)
